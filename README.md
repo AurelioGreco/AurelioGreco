@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Aurelio Greco
-- 👀 I’m interested in HTML, CSS, JavaScript, PHP, Bootstrap, Materialize, git, WordPress, Drupal and read books.
-- 🌱 I’m currently learning Drupal and nihilism.
-- 💞️ I’m looking to collaborate on my brother.
+- 👀 I’m interested in HTML, CSS, JavaScript, PHP, Bootstrap, Materialize, git, WordPress, and read books.
 - 📫 How to reach me https://aureliogreco.altervista.org/
 
 <!---
